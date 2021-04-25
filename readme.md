@@ -60,8 +60,8 @@ by computer enthusiasts to regain control over their hardware so there are
 serveral guides available online to help you do that if you need the details.
 
 The exact steps will depend on your specific motherboard and BIOS version,
-but in general it boils down to entering your motherboard's Setup tool at boot
-by pressing a certain Key repeatedly and navigate the menus using your keyboard.
+but in general it boils down to entering your motherboard's setup tool at boot
+by pressing a certain key repeatedly and navigate the menus using your keyboard.
 
 ### 1.
 The second security "fix" we must perform is enabling the Windows Test Mode.
